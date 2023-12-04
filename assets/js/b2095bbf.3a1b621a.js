@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktestdocu=self.webpackChunktestdocu||[]).push([[2483],{98045:e=>{e.exports=JSON.parse('{"permalink":"/accu30/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
